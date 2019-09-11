@@ -12,12 +12,12 @@ github.com/nicholasferguson/SABR.NelderMead_Studies_2
 # Original VB code and spreadsheet by Changwei Xiong. 
 + http://www.cs.utah.edu/~cxiong/
 
-
++ Note: This script was run in kdb+ 64x, cmd line:  q q.k -s 1 -p 5010
 	
 # To run: 
 q)\l SABR_main.q
 
-Directory structure
++ Directory structure
 \<SABR>
 	\data
 
