@@ -15,11 +15,11 @@ github.com/nicholasferguson/SABR.NelderMead_Studies_2
 + Note: This script was run in kdb+ 64x, cmd line:  q q.k -s 1 -p 5010
 	
 # To run: 
-q)\cd <SABR Dir>
-q)\l SABR_main.q
++ q)\cd <SABR Dir>
++ q)\l SABR_main.q
 
 # Directory structure
 \q
-	\<SABR Dir >
-	   \data
++	\<SABR Dir >
++	   \data
 
