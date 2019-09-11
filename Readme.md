@@ -12,6 +12,8 @@ github.com/nicholasferguson/SABR.NelderMead_Studies_2
 
 # Original VB code and spreadsheet by Changwei Xiong. 
 + http://www.cs.utah.edu/~cxiong/
++ see data/05.Swaption_Volatility_SABR_Calibration.xls and 
++ data/05.Changwei_Xiong_SABR_Calibration.pdf
 
 + Note: This script was run in kdb+ 64x, cmd line:  q q.k -s 1 -p 5010
 	
