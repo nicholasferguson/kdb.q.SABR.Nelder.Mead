@@ -3,6 +3,7 @@ github.com/nicholasferguson/SABR.NelderMead_Studies_2
 
 # SABR. This study illustrates how SABR, alpha beta rho nu, is solved using NelderMead 
 # This was a test case to work with SABR and NelderMead, in KDB+/q
+# KDB/q version was 64x, downloaded for free from kx.com
 
 + It has two SABR related computations in function: 
 	+ 'Obloj2008'  Method in Obloj 2008
