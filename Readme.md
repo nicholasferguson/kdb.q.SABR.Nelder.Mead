@@ -34,7 +34,7 @@ github.com/nicholasferguson/SABR.NelderMead_Studies_2
 
 
 + For each expiry row
-  MyFunction(SolveMinimum(initguess),true)
+	+ MyFunction(SolveMinimum(initguess),true)
 	+			initguess has initial values ( per row ) for alpha, beta, rho and nu
 	+			SolveMinimum is a NelderMead solver for alpha beta rho and nu.
 	+		    This Nelder Mead objective function is MyFunction.  
