@@ -1,5 +1,5 @@
-# This ports over a C++ version in this github.
-github.com/nicholasferguson/SABR.NelderMead_Studies_2
+# This ports over a C++ version in this github. 
+	+ See github.com/nicholasferguson/SABR.NelderMead_Studies_2
 	+ This is a first draft.  KDB/q code was not fully optimized so that it could be easily compared to C++.
 	+ SABR. This study illustrates how SABR, alpha beta rho nu, is solved using NelderMead 
 	+ This was a test case to work with SABR and NelderMead, in KDB+/q
