@@ -35,4 +35,5 @@
 		+ SolveMinimum is a NelderMead solver for alpha beta rho and nu.
 		+ This Nelder Mead objective function is MyFunction.  
 		+ When Nelder Mead converges is reached, it returns	
-		+ Then SolveMinimum passes arguments  to MyFunction, for a final passthrough.
+		+ Then SolveMinimum passes arguments  to MyFunction, for a final pass through.
+		+ MyFunction, with its SABR math, calculates a Model Vol.
