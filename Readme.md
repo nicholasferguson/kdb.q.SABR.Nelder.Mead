@@ -14,21 +14,20 @@ github.com/nicholasferguson/SABR.NelderMead_Studies_2
 + This SABR model does an initial fit of beta rho nu using method of a local calibration algorithm.  
 
 # Original VB code and spreadsheet by Changwei Xiong. 
-+ http://www.cs.utah.edu/~cxiong/
-+ Code is based on worksheet SABR(Implied Alpha) in github directory:
-+ references/05.Swaption_Volatility_SABR_Calibration.xls
-+ referneces/05.Changwei_Xiong_SABR_Calibration.pdf
-
-+ Note: This script was run in kdb+ 64x, cmd line:  q q.k -s 1 -p 5010
+	+ http://www.cs.utah.edu/~cxiong/
+	+ Code is based on worksheet SABR(Implied Alpha) in github directory:
+	+ references/05.Swaption_Volatility_SABR_Calibration.xls
+	+ referneces/05.Changwei_Xiong_SABR_Calibration.pdf
 	
 # To run: 
-+ q)\cd \<SABR Dir>
-+ q)\l SABR_main.q
+	+ q)\cd \<SABR Dir>
+	+ q)\l SABR_main.q
+	+ Note: This script was run in kdb+ 64x, cmd line:  q q.k -s 1 -p 5010
 
 # Directory structure
-\q
-+	\\\<SABR Dir >
-+	   \data
+	\q
+	+ \\\<SABR Dir >
+		+ \data
 
 # Quick Summary of Algorithm
 
