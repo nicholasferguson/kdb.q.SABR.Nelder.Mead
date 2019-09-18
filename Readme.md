@@ -39,7 +39,7 @@
 		+ MyFunction, with its SABR math, calculates a Model Vol.
 		
 + Nelder Mead Algorithm	
-		+ TBD
+	+ TBD
 		
 + SABR Math
-		+ TBD
+	+ TBD
