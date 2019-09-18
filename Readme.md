@@ -37,3 +37,9 @@
 		+ When Nelder Mead converges is reached, it returns	
 		+ Then SolveMinimum passes arguments  to MyFunction, for a final pass through.
 		+ MyFunction, with its SABR math, calculates a Model Vol.
+		
++ Nelder Mead Algorithm	
+		+ TBD
+		
++ SABR Math
+		+ TBD
